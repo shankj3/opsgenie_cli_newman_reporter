@@ -1,0 +1,1 @@
+# opsgenie_cli_newman_reporter
