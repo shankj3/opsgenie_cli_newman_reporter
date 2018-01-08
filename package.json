@@ -1,0 +1,30 @@
+{
+  "name": "opsgenie_cli_newman_reporter",
+  "version": "1.0.0",
+  "description": "newman cli reporter with post to opsgenie on failure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankj3/opsgenie_cli_newman_reporter.git"
+  },
+  "keywords": [
+    "newman",
+    "reporter",
+    "opsgenie"
+  ],
+  "author": "Jessi Shank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankj3/opsgenie_cli_newman_reporter/issues"
+  },
+  "homepage": "https://github.com/shankj3/opsgenie_cli_newman_reporter#readme",
+  "devDependencies": {
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "util": "^0.10.3"
+  }
+}
